@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rshubham005
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me ... You will find multiple contact methods in my portfolio . URL :- rshubham-site.netlify.app
 
 <!---
