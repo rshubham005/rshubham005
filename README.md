@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shubham Rathor
-- 👀 Fontend Developer
-- 🌱 To be Full Stack developer
+- 👀 FullStack Developer
   
 
 <!---
